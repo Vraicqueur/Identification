@@ -28,7 +28,6 @@ nav {
 	color:white;
 	background-color: darkslategray;
 	margin:1px;
-	white-space:nowrap;
 }
 
 nav a {
@@ -54,6 +53,7 @@ nav form {
 
 nav div {
 	display:inline;
+	white-space:nowrap;
 }
 
 nav div#rightnav {
