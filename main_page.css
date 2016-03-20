@@ -28,6 +28,7 @@ nav {
 	color:white;
 	background-color: darkslategray;
 	margin:1px;
+	white-space:nowrap;
 }
 
 nav a {
@@ -40,7 +41,6 @@ nav a {
 nav ul {
 	margin:0px;
 	padding:20px;
-	white-space:nowrap;
 }
 
 nav li {
